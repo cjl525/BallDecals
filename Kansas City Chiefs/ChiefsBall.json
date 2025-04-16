@@ -1,0 +1,9 @@
+{
+    "Chiefs Ball": {
+        "Group": "",
+        "Params": {
+            "Diffuse": "ChiefsBall_Diffuse.png",
+            "Normal": "ChiefsBall_Bump.png"
+        }
+    }
+}
